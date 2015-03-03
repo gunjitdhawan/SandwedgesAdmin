@@ -18,7 +18,7 @@ public class AddProduct extends ActionBarActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		  Parse.initialize(this, "rLDuBNajsyienDD24YTTCKUuJN2S0sdPdtSy9wIe", "P1bKXK9sdtwWT3Nd3fTVnVu2zrC0fcGLLBalyXS2");
+		  Parse.initialize(this, "",");
 		setContentView(R.layout.activity_add_product);
 		name=(EditText) findViewById(R.id.name);
 		desc=(EditText) findViewById(R.id.description);
