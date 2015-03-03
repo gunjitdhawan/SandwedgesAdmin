@@ -1,0 +1,6 @@
+C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\classes\debug
+C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-6ae483fbac099bb351c60a52bcedeb9fdddfd507.jar
+C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.0-1ebfbd021a2a1b4aff50736e50e6f46ea4d2025a.jar
+C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\classes-854dd38f043e296aa8ce294d3bc17e678c1c763c.jar
+C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-450bf1fe0fd0263009ee8cbc6fe94143be467ce0.jar
+C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\Parse-1.8.0-3a498903dda45012163fc0e9cfcb94bc11fc62f0.jar

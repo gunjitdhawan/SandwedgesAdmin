@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp" >
+ 
+   <EditText
+        android:id="@+id/editTextinc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:hint="Search OrderID/Mobile"
+        android:ems="10" />
+
+ 
+<ListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:divider="#ffffff"
+        android:layout_below="@+id/editTextinc"
+        android:dividerHeight="5dp" />
+</RelativeLayout>

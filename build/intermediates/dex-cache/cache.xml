@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\xampp\htdocs\android\SandwedgesAdmin\app\libs\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-6ae483fbac099bb351c60a52bcedeb9fdddfd507.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\classes-854dd38f043e296aa8ce294d3bc17e678c1c763c.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android\SandwedgesAdmin\app\libs\ParseCrashReporting-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55e71442ecbce939ce2a1ad75d1a4408a61d6804">
+        <dex dex="C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.0-1ebfbd021a2a1b4aff50736e50e6f46ea4d2025a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gunjit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-450bf1fe0fd0263009ee8cbc6fe94143be467ce0.jar" />
+    </item>
+    <item
+        jar="C:\xampp\htdocs\android\SandwedgesAdmin\app\libs\Parse-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61cf79e2775b882ac0ea32d60ea2dbbf6f245cea">
+        <dex dex="C:\xampp\htdocs\android\SandwedgesAdmin\app\build\intermediates\pre-dexed\debug\Parse-1.8.0-3a498903dda45012163fc0e9cfcb94bc11fc62f0.jar" />
+    </item>
+
+</items>

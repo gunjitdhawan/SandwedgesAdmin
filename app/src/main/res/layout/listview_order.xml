@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    
+        android:background="#ffa500"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/ordernum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Order number"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:background="#ffa500"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ordernum"
+        android:padding="5dp"
+        
+        android:textColor="#ffffff"
+        android:background="#ffa500"
+        android:text="Username" />
+
+    <TextView
+        android:id="@+id/gtotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/username"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:background="#ffa500"
+        android:text="Grand Total" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ordernum"
+        android:gravity="right"
+        android:textSize="10dp"
+        android:textColor="#ffffff"
+        android:background="#ffa500"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:text="Address"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/gtotal"
+        android:padding="5dp"
+        android:textColor="#ffffff"
+        android:background="#ffa500"
+        android:text="Date" />
+
+    <TextView
+        android:id="@+id/disc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/date"
+        android:text="discount"
+        android:textColor="#ffa500"
+        android:textSize="1dp" />
+
+    <TextView
+        android:id="@+id/proddet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/disc"
+        android:text="productdetails"
+        android:textColor="#ffa500"
+        android:textSize="1dp" />
+
+    <TextView
+        android:id="@+id/itot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/proddet"
+        android:textColor="#ffa500"
+        android:text="itot"
+        android:textSize="1dp" />
+
+</RelativeLayout>
