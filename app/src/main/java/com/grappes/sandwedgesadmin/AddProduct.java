@@ -4,13 +4,13 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import com.parse.Parse;
 import com.parse.ParseObject;
-
 public class AddProduct extends ActionBarActivity {
 
-	
+	TextView t;
 	EditText name;
 	EditText desc;
 	EditText pric;
@@ -18,7 +18,6 @@ public class AddProduct extends ActionBarActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		  Parse.initialize(this, "",");
 		setContentView(R.layout.activity_add_product);
 		name=(EditText) findViewById(R.id.name);
 		desc=(EditText) findViewById(R.id.description);
