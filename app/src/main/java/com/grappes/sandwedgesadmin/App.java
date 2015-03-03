@@ -10,7 +10,7 @@ public class App extends Application {
   public void onCreate() {
     super.onCreate();
  
-    Parse.initialize(this, "rLDuBNajsyienDD24YTTCKUuJN2S0sdPdtSy9wIe", "P1bKXK9sdtwWT3Nd3fTVnVu2zrC0fcGLLBalyXS2");
+    Parse.initialize(this, "","");
     PushService.setDefaultPushCallback(this, OrderActivity.class);
     ParsePush.subscribeInBackground("admin");
   }
